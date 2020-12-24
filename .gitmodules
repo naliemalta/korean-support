@@ -6,7 +6,10 @@
 	url = git@github.com:scottgigante/gTTS-token
 [submodule "lib/NaverTTS"]
 	path = lib/NaverTTS
-	url = git@github.com:scottgigante/NaverTTS
+	url = git@github.com:naliemalta/NaverTTS
 [submodule "lib/gTTS"]
 	path = lib/gTTS
-	url = git@github.com:scottgigante/gTTS
+	url = git@github.com:naliemalta/gTTS
+[submodule "lib/ndic"]
+	path = lib/ndic
+	url = https://github.com/naliemalta/ndic
